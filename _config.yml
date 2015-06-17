@@ -10,3 +10,4 @@ github_username:  yaobiqing0424
 
 # Build settings
 markdown: kramdown
+paginate: 10
