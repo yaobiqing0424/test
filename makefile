@@ -4,7 +4,7 @@
     git commit -m "update source"
     cp -r _site/ /tmp/_site
     git checkout master
-    rm -r ./*
+#rm -r ./*
     cp -r /tmp/_site/* ./
     git add -A
     git commit -m "deploy blog"
